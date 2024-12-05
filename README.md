@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RoboGlikman
-- 👀 I’m interested in cyber security with emphasis on networking
-- 🌱 I’m currently learning WiFi security 
+- 👀 I’m interested in low level development and binray exploitation
+- 🌱 I’m currently learning operating systems
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: phone number: 972522030390
 
